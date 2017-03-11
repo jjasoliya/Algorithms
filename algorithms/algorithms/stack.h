@@ -1,4 +1,4 @@
-// File defines all the headers
+// class for stack & queue
 
 
 class stack
@@ -25,7 +25,7 @@ void stack::push(int item)
 {
 	if (stack_pointer == MAX_SIZE)
 	{
-		cout << "Stack is FULL\n" << endl;
+		cout << "Stack is FULL.." << endl;
 		return;
 	}
 
