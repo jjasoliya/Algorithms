@@ -6,7 +6,6 @@
 #include "stack.h"
 #include "queue.h"
 #include "cir_queue.h"
-#include "linkedlist.h"
 
 void main()
 {
@@ -59,6 +58,8 @@ void main()
 	_getch();
 	q.~queue();
 
+	*/
+
 // cicular queue implementation
 
 	cir_queue cq;
@@ -77,31 +78,7 @@ void main()
 	cout << cq.pop() << endl; cout << "front pointer:" << cq.front << "  rear pointer:" << cq.rear << endl;
 	cout << cq.pop() << endl; cout << "front pointer:" << cq.front << "  rear pointer:" << cq.rear << endl;
 
-	*/
 
-
-	// Run the Linked List
-	linkedlist a;
-	a.append_node(100);
-	a.display();
-	a.append_node(200);
-	a.display();
-	a.append_node(300);
-	a.display();
-	a.append_node(200);
-	a.display();
-	a.append_node(400);
-	a.display();
-	a.del(200);
-	a.del(200);
-	a.addatbeg(1000);
-	a.addafter(3, 10000);
-
-	a.display();
-	a.count();
-	a.~linkedlist();
-
-	cout << endl << " GOOD BYE ";
 	_getch();
 
 }
