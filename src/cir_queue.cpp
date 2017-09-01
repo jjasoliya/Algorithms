@@ -1,5 +1,5 @@
-#include "stdafx.h"
-#include "cir_queue.h"
+#include "./../includes/stdafx.h"
+#include "./../includes/cir_queue.h"
 
 
 void cir_queue::push(int data)

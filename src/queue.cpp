@@ -1,5 +1,5 @@
-#include "stdafx.h"
-#include "queue.h"
+#include "./../includes/stdafx.h"
+#include "./../includes/queue.h"
 #define MAX_SIZE 5
 
 //constructor

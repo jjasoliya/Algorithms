@@ -1,0 +1,2 @@
+﻿  _a7cffb40aebb7296fde0562f36e58889_APlusB.cpp
+c:\github\coursera\algorithmic-toolbox\assignment1\_a7cffb40aebb7296fde0562f36e58889_aplusb.cpp(18): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?

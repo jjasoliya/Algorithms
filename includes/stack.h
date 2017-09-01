@@ -1,12 +1,12 @@
-// class for stack & queue
-
+// class for stack
+#define MAX_SIZE 5
 
 class stack
 {
 public:
 	stack()
 	{
-		stack_pointer = 0;
+		 int stack_pointer = 0;
 	};
 	~stack()
 	{

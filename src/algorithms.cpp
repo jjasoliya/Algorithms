@@ -1,14 +1,13 @@
 // algorithms.cpp : Defines the entry point for the console application.
-//
 
-#include "stdafx.h"
+#include "./../includes/stdafx.h"
+#include "./../includes/queue.h"
+#include "./../includes/cir_queue.h"
+#include "./../includes/linkedlist.h"
+#include "./../includes/linked_stack.h"
 #define MAX_SIZE 5
-#include "stack.h"
-#include "queue.h"
-#include "cir_queue.h"
-#include "linkedlist.h"
 
-void main()
+int main()
 {
 
 /*

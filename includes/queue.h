@@ -1,4 +1,6 @@
+#include "./../includes/stdafx.h"
 #define MAX_SIZE 5
+
 class queue
 {
 
@@ -11,5 +13,6 @@ public:
 	void push(int data);
 	int pop();
 	~queue();
+
 };
 

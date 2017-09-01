@@ -1,0 +1,4 @@
+﻿  lcm.cpp
+c:\github\coursera\algorithmic-toolbox\week2\lcm\lcm.cpp(26): warning C4715: 'gcd_fast': not all control paths return a value
+  lcm.vcxproj -> C:\GitHub\coursera\Algorithmic-Toolbox\week2\lcm\Debug\lcm.exe
+  lcm.vcxproj -> C:\GitHub\coursera\Algorithmic-Toolbox\week2\lcm\Debug\lcm.pdb (Full PDB)

@@ -1,5 +1,5 @@
-#include "stdafx.h"
-#include "linkedlist.h"
+#include "./../includes/stdafx.h"
+#include "./../includes/linkedlist.h"
 
 
 linkedlist::linkedlist()

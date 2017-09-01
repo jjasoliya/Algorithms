@@ -1,0 +1,5 @@
+﻿  fibonacci_sum_last_digit.cpp
+c:\github\coursera\algorithmic-toolbox\week2\sum_of_fibonacci_last_digit\fibonacci_sum_last_digit.cpp(9): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+c:\github\coursera\algorithmic-toolbox\week2\sum_of_fibonacci_last_digit\fibonacci_sum_last_digit.cpp(27): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  sum_of_fibonacci_last_digit.vcxproj -> C:\GitHub\coursera\Algorithmic-Toolbox\week2\sum_of_fibonacci_last_digit\Debug\sum_of_fibonacci_last_digit.exe
+  sum_of_fibonacci_last_digit.vcxproj -> C:\GitHub\coursera\Algorithmic-Toolbox\week2\sum_of_fibonacci_last_digit\Debug\sum_of_fibonacci_last_digit.pdb (Full PDB)
