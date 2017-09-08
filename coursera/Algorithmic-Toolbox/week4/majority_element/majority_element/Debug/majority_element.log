@@ -1,4 +1,0 @@
-﻿  majority_element.cpp
-c:\github\coursera\algorithmic-toolbox\week4\majority_element\majority_element.cpp(94): warning C4715: 'get_majority_element': not all control paths return a value
-  majority_element.vcxproj -> C:\GitHub\coursera\Algorithmic-Toolbox\week4\majority_element\majority_element\Debug\majority_element.exe
-  majority_element.vcxproj -> C:\GitHub\coursera\Algorithmic-Toolbox\week4\majority_element\majority_element\Debug\majority_element.pdb (Full PDB)
