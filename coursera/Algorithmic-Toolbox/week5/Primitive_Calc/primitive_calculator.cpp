@@ -27,7 +27,7 @@ vector<int> optimal_sequence(int n) {
  // Dynamic Programming implementation
 int DPPrimCalc(int n)
 {
-	int C_min_final;
+	int C_min_final = 0;
 	vector<int> CalcMin;
 	vector<char> sequence;
 	vector<int> backtrack_v;
@@ -37,6 +37,7 @@ int DPPrimCalc(int n)
 		CalcMin.push_back(0);
 	}
 	
+
 	CalcMin[0] = -1;
 	//sequence.push_back('c');
 	sequence.push_back('c');
@@ -130,5 +131,5 @@ int main() {
 
 
 
- // _gettch();
+    getchar();
 }
