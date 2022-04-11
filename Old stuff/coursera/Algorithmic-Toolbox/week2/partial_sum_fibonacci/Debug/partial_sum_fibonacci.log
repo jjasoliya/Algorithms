@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  fibonacci_partial_sum.cpp
+C:\Users\jayminj\source\repos\jjasoliya\Algorithms\coursera\Algorithmic-Toolbox\week2\partial_sum_fibonacci\fibonacci_partial_sum.cpp(33,10): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jayminj\source\repos\jjasoliya\Algorithms\coursera\Algorithmic-Toolbox\week2\partial_sum_fibonacci\fibonacci_partial_sum.cpp(49,9): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  partial_sum_fibonacci.vcxproj -> C:\Users\jayminj\Source\Repos\jjasoliya\Algorithms\coursera\Algorithmic-Toolbox\week2\partial_sum_fibonacci\Debug\partial_sum_fibonacci.exe
